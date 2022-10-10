@@ -1,6 +1,6 @@
 # How to show as Fannie Mae open source contributor on GitHub 
 
-## By default, your organizations does not show on GitHub, which is why the number of contributors from many companies open source organizations looks low. If you are contributing to open source projects (thank you!), you can follow the steps listed below: 
+By default, your organizations does not show on GitHub, which is why the number of contributors from many companies open source organizations looks low. If you are contributing to open source projects (thank you!), you can follow the steps listed below: 
 
 - Sign into Github.com with your personal GitHub username 
 - Click on your profile picture on the top right and select profile 
